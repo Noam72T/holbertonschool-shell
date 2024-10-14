@@ -1,2 +1,2 @@
 #!/bin/bashh
-rm *~
+rm -rf *~*

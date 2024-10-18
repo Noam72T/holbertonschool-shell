@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Hello World' | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+echo ASCII | tr 'A-Za-z0-9' 'N-ZA-Mn-za-m5-90-4'
